@@ -94,4 +94,13 @@ echo "$@"
 #
 # ADD YOUR CODE BELOW:
 
+<<<<<<< HEAD
 I need a nap
+=======
+#THOUGHTS 
+#for 
+#do $FILE = 
+##unsure how to call the file from the given path
+#echo `grep ">" $FILE | wc -l` $FILE
+#done
+>>>>>>> 11febc25e2f52a3a9c852aa7c2b3cbe5569e0a04
