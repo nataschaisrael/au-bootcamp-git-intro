@@ -94,3 +94,9 @@ echo "$@"
 #
 # ADD YOUR CODE BELOW:
 
+#THOUGHTS 
+#for 
+#do $FILE = 
+##unsure how to call the file from the given path
+#echo `grep ">" $FILE | wc -l` $FILE
+#done
