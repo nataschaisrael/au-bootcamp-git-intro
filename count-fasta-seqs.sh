@@ -94,3 +94,14 @@ echo "$@"
 #
 # ADD YOUR CODE BELOW:
 
+for sh count-fasta-seqs.sh example-seq1.fasta
+do
+	basename ~/au-bootcamp-git-intro/example-seqs1.fasta
+	grep ">" example-seqs1.fasta | wc -l
+done
+
+for sh count-fasta-seqs.sh example-seq2.fasta
+do
+        basename ~/au-bootcamp-git-intro/example-seqs2.fasta
+        grep ">" example-seqs2.fasta | wc -l
+done
